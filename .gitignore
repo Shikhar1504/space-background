@@ -1,0 +1,21 @@
+# Node modules and build output
+node_modules/
+dist/
+
+# Optional cache files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE/editor stuff
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+package-lock.json

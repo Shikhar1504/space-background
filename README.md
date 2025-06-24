@@ -17,21 +17,23 @@ A beautiful, animated space-themed background component for React with configura
 
 ## 📚 Table of Contents
 
-- [✨ Features](#features)
-- [🎥 Preview](#preview)
-- [📦 Installation](#installation)
-- [🚀 Quick Start](#quick-start)
-- [🌗 Theme Modes](#theme-modes)
-- [🧩 Components](#components)
-- [🧾 Props Reference](#props-reference)
-- [🛠 Requirements](#requirements)
-- [🧭 Use Cases](#use-cases)
-- [📄 License](#license)
-- [🤝 Contributing](#contributing)
-- [🧑‍💻 Local Dev Setup](#local-dev-setup)
-- [🌍 Used In](#used-in)
+- [✨ Features](#-features)
+- [🎥 Preview](#-preview)
+- [📦 Installation](#-installation)
+- [🚀 Quick Start](#-quick-start)
+- [🌗 Theme Modes](#-theme-modes)
+- [🧩 Components](#-components)
+- [🧾 Props Reference](#-props-reference)
+- [🛠 Requirements](#-requirements)
+- [🧭 Use Cases](#-use-cases)
+- [📄 License](#-license)
+- [🤝 Contributing](#-contributing)
+- [🧑‍💻 Local Dev Setup](#-local-dev-setup)
+- [🌍 Used In](#-used-in)
 
 ---
+
+<a name="features"></a>
 
 ### ✨ Features
 
@@ -46,12 +48,12 @@ A beautiful, animated space-themed background component for React with configura
 
 ---
 
-### 🎥 Preview
+## 🎥 Preview
 
 #### 🌌 Animated Demo
 
 <p align="center">
-  <img src="./assets/Animation.gif" width="100%" alt="space-background demo" />
+  <img src="https://github.com/Shikhar1504/space-background/blob/main/assets/Animation.gif" width="100%" alt="space-background demo" />
 </p>
 
 > 👆 A glimpse of stars, planets, meteors, and theme/hue toggling in motion.
@@ -59,18 +61,18 @@ A beautiful, animated space-themed background component for React with configura
 #### 🖼 Static Screenshots
 
 <p align="center">
-  <img src="./assets/1.png" width="30%" alt="Animation" />
+  <img src="https://github.com/Shikhar1504/space-background/blob/main/assets/1.png?raw=true" width="30%" alt="Animation" />
   &nbsp;
-  <img src="./assets/2.png" width="30%" alt="No Animation" />
+  <img src="https://github.com/Shikhar1504/space-background/blob/main/assets/2.png?raw=true" width="30%" alt="No Animation" />
   &nbsp;
-  <img src="./assets/3.png" width="30%" alt="Animation with Hue and Theme Toggle buttons" />
+  <img src="https://github.com/Shikhar1504/space-background/blob/main/assets/3.png?raw=true" width="30%" alt="Animation with Hue and Theme Toggle buttons" />
 </p>
 
 > ✅ Static views showing different modes and control panels.
 
 ---
 
-### 📦 Installation
+## 📦 Installation
 
 ```bash
 npm install space-background
@@ -84,7 +86,7 @@ pnpm add space-background
 
 ---
 
-### 🚀 Quick Start
+## 🚀 Quick Start
 
 - In App.jsx (JavaScript)
 
@@ -169,7 +171,7 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 🌗 Theme Modes
+## 🌗 Theme Modes
 
 | Mode          | Animation | Class Applied | Icon |
 | ------------- | --------- | ------------- | ---- |
@@ -185,7 +187,7 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 🧩 Components
+## 🧩 Components
 
 - **`SpaceBackground`**
 
@@ -300,7 +302,7 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 🧾 Props Reference
+## 🧾 Props Reference
 
 #### `stars`
 
@@ -382,7 +384,7 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 🛠 Requirements
+## 🛠 Requirements
 
 - React 18+
 
@@ -396,7 +398,7 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 🧭 Use Cases
+## 🧭 Use Cases
 
 - Personal portfolios and developer resumes
 - Hero sections of landing pages
@@ -406,13 +408,13 @@ createRoot(document.getElementById("root")!).render(
 
 ---
 
-### 📄 License
+## 📄 License
 
 MIT © Shikhar Sinha
 
 ---
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, PRs, and feedback are welcome!
 
@@ -421,14 +423,14 @@ Please open an issue to discuss ideas before large changes.
 
 ---
 
-### 🧑‍💻 Local Dev Setup
+## 🧑‍💻 Local Dev Setup
 
 To develop locally:
 
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/space-background.git
+   git clone https://github.com/Shikhar1504/space-background.git
    cd space-background
    ```
 
@@ -452,21 +454,22 @@ To develop locally:
 
    - Import and render <SpaceBackground /> in your demo app
 
-### 🌌 Made with ✨ + 🧠
+---
+
+## 🌌 Made with ✨ + 🧠
 
 Enjoy building with cosmic vibes!
 
 ---
 
-### 🌍 Used In
+## 🌍 Used In
 
-| Project Name         | Link                                                     |
-| -------------------- | -------------------------------------------------------- |
-| My Portfolio         | [shikhar.dev](https://shikhar.dev)                       |
-| Startup Landing Page | [moonshot.io](https://moonshot.io)                       |
-| Your Site?           | [Submit via PR](https://github.com/your-repo/issues/new) |
+| Project Name | Link                                                                        |
+| ------------ | --------------------------------------------------------------------------- |
+| My Portfolio | [shikhar.dev](https://shikhar.dev)                                          |
+| Your Site?   | [Submit via PR](https://github.com/Shikhar1504/space-background/issues/new) |
 
-> Want to be featured here? Open a PR or [create an issue](https://github.com/your-repo/issues/new) with your link!
+> Want to be featured here? Open a PR or [create an issue](https://github.com/Shikhar1504/space-background/issues/new) with your link!
 
 ---
 

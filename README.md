@@ -35,7 +35,7 @@ A beautiful, animated space-themed background component for React with configura
 
 <a name="features"></a>
 
-### ✨ Features
+## ✨ Features
 
 - ⚙️ Fully customizable starfields, meteors, and planet orbits
 - 🌗 Built-in theme toggle: light / dark / dark-static
